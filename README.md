@@ -78,5 +78,5 @@ Just open test/SpecRunner.html in the browser.
 
 Please read the <a href="https://github.com/openMF/community-app/blob/master/Contributing.md" >contribution guidelines</a>
 
-
+testing
 
