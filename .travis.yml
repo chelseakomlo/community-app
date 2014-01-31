@@ -5,6 +5,8 @@ before_script:
   - npm install -g grunt-cli
   - npm install -g bower
   - bower install
+  - bower cache clean
+  - bower update
   - grunt prod
 notifications:
   email: true
